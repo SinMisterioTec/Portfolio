@@ -42,7 +42,7 @@ Portfolio
 
 Cada especialización contiene cuatro carpetas principales que siguen una metodología de aprendizaje estructurada.
 
-### Topic
+### Temas
 Contiene el **tema o concepto técnico que se está estudiando**.
 
 Aquí se documentan conceptos fundamentales como protocolos, técnicas, herramientas o tecnologías.
@@ -56,7 +56,7 @@ Ejemplos:
 
 ---
 
-### Explanation
+### Explicación
 Explica **cómo funciona el concepto desde un punto de vista técnico**.
 
 Esta sección incluye:
@@ -69,7 +69,7 @@ El objetivo es comprender **por qué y cómo funciona la tecnología**.
 
 ---
 
-### Process
+### Procesos
 Describe **el proceso técnico paso a paso**.
 
 Incluye:
@@ -83,7 +83,7 @@ Esta sección explica **cómo se implementa o analiza el concepto en la práctic
 
 ---
 
-### Lab
+### Laboratorios
 Contiene **laboratorios prácticos y simulaciones**.
 
 Aquí se aplican los conceptos aprendidos mediante:
